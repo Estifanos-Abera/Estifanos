@@ -52,7 +52,7 @@ function App() {
       category: "Education & AI/ML",
       desc: "A free, 4-week program pairing high schoolers in Ethiopia with industry professionals to master Python basics, core regression and classification models, and deploy graduation projects.",
       tags: ["Python", "AI/ML", "Mentorship", "Education"],
-      link: "https://github.com/Estifanos-Abera",
+      link: "https://www.linkedin.com/search/results/companies/?keywords=LaunchML&origin=SWITCH_SEARCH_VERTICAL",
       // linkLabel removed as not applicable
       logo: launchmlLogo
     },
@@ -208,7 +208,7 @@ function App() {
             {Array(4).fill(null).map((_, idx) => (
               <React.Fragment key={idx}>
                 <div className="inline-block liquid-glass border border-white/5 px-8 py-4 text-xs uppercase tracking-widest text-white/60 font-semibold">
-                  Machine Learning
+                  Designing and delivering responsive, high‑performance websites for corporate clients using modern web technologies, focusing on SEO, accessibility, and seamless user experience.
                 </div>
                 <div className="inline-block liquid-glass border border-white/5 px-8 py-4 text-xs uppercase tracking-widest text-white/60 font-semibold">
                   Dataset Engineering
@@ -289,8 +289,9 @@ function App() {
             },
             {
               num: "02",
-              // Data Engineering capability removed
-            },
+              title: "Developing Websites for Businesses",
+            desc: "Designing and delivering responsive, high‑performance websites for corporate clients using modern web technologies, focusing on SEO, accessibility, and seamless user experience.",
+                },
             {
               num: "03",
               title: "Interactive Prototypes",
