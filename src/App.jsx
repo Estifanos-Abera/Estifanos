@@ -50,16 +50,16 @@ function App() {
       num: "01",
       name: "LaunchML Mentorship",
       category: "Education & AI/ML",
-      desc: "A free, 4-week program pairing high schoolers in Ethiopia with industry professionals to master Python basics, core regression and classification models, and deploy graduation projects.",
+      desc: "A free, 4-week program pairing high schoolers in Ethiopia with industry professionals to master Python basics, core regression and classification models, and deploy graduation projects. Founded by Estifanos Abera.",
       tags: ["Python", "AI/ML", "Mentorship", "Education"],
-      link: "https://github.com/Estifanos-Abera",
+      link: "https://www.linkedin.com/search/results/companies/?keywords=LaunchML&origin=SWITCH_SEARCH_VERTICAL",
       // linkLabel removed as not applicable
       logo: launchmlLogo
     },
     {
       id: 2,
       num: "02",
-      name: "Comparing Machine Learning Approaches for Ethiopian Real Estate Price Prediction",
+      name: "Comparing Machine Learning Approaches for Ethiopian Real Estate Price Predictinon",
       category: "Academic Paper",
       desc: "A systematic study benchmarking Linear/Ridge Regression, Random Forest, and Gradient Boosting on 500 Addis Ababa properties, identifying key geographic drivers like Ring Road proximity and diaspora investment.",
       tags: ["Research", "Gradient Boosting", "Scikit-Learn", "Zenodo"],
@@ -289,7 +289,8 @@ function App() {
             },
             {
               num: "02",
-              // Data Engineering capability removed
+              title: "Developing Websites for businesses",
+              desc: "Building high‑performance, responsive web applications for corporate clients, focusing on modern UI/UX, performance optimization, and seamless deployment pipelines."
             },
             {
               num: "03",
@@ -481,7 +482,7 @@ function App() {
 
         <div className="flex flex-wrap justify-center gap-4">
           <a
-            href="https://www.linkedin.com/in/estifanos-abera-⦗-⚑-ɢᴏᴀᴛᴇᴅ-⚑-⦘-2a0702387"
+            href="https://www.linkedin.com/in/estifanos-abera-2a0702387"
             target="_blank"
             rel="noopener noreferrer"
             className="social-pill hover:text-white hover:border-white/20 transition-all text-white/70 text-xs font-semibold uppercase tracking-widest"
