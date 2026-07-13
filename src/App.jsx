@@ -53,13 +53,13 @@ function App() {
       desc: "A free, 4-week program pairing high schoolers in Ethiopia with industry professionals to master Python basics, core regression and classification models, and deploy graduation projects.",
       tags: ["Python", "AI/ML", "Mentorship", "Education"],
       link: "https://github.com/Estifanos-Abera",
-      linkLabel: "View System",
+      // linkLabel removed as not applicable
       logo: launchmlLogo
     },
     {
       id: 2,
       num: "02",
-      name: "Local Real Estate Valuation Research",
+      name: "Comparing Machine Learning Approaches for Ethiopian Real Estate Price Prediction",
       category: "Academic Paper",
       desc: "A systematic study benchmarking Linear/Ridge Regression, Random Forest, and Gradient Boosting on 500 Addis Ababa properties, identifying key geographic drivers like Ring Road proximity and diaspora investment.",
       tags: ["Research", "Gradient Boosting", "Scikit-Learn", "Zenodo"],
@@ -247,7 +247,7 @@ function App() {
             </p>
             
             <p className="text-base md:text-lg text-white/80 leading-relaxed font-light">
-              Through founding LaunchML, I established a dedicated education framework helping high school students across Ethiopia access AI mentorship and foundational curriculum. I continuously iterate, benchmark, and scale ML networks to deploy robust solutions.
+              As the founder of LaunchML, I established a dedicated education framework helping high school students across Ethiopia access AI mentorship and foundational curriculum. I continuously iterate, benchmark, and scale ML networks to deploy robust solutions.
             </p>
           </div>
 
@@ -289,8 +289,7 @@ function App() {
             },
             {
               num: "02",
-              title: "Data Engineering",
-              desc: "Building clean datasets reflecting localized market realities, designing feature engineering frameworks, and executing ETL procedures using pandas and NumPy."
+              // Data Engineering capability removed
             },
             {
               num: "03",
@@ -482,7 +481,7 @@ function App() {
 
         <div className="flex flex-wrap justify-center gap-4">
           <a
-            href="https://www.linkedin.com/in/estifanos-abera-2a0702387"
+            href="https://www.linkedin.com/in/estifanos-abera-⦗-⚑-ɢᴏᴀᴛᴇᴅ-⚑-⦘-2a0702387"
             target="_blank"
             rel="noopener noreferrer"
             className="social-pill hover:text-white hover:border-white/20 transition-all text-white/70 text-xs font-semibold uppercase tracking-widest"
